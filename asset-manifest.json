@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Regal-Riches-Calculator/static/css/main.749f888a.css",
-    "main.js": "/Regal-Riches-Calculator/static/js/main.00f723d5.js",
+    "main.js": "/Regal-Riches-Calculator/static/js/main.664760be.js",
     "static/js/453.73a98e51.chunk.js": "/Regal-Riches-Calculator/static/js/453.73a98e51.chunk.js",
     "index.html": "/Regal-Riches-Calculator/index.html",
     "main.749f888a.css.map": "/Regal-Riches-Calculator/static/css/main.749f888a.css.map",
-    "main.00f723d5.js.map": "/Regal-Riches-Calculator/static/js/main.00f723d5.js.map",
+    "main.664760be.js.map": "/Regal-Riches-Calculator/static/js/main.664760be.js.map",
     "453.73a98e51.chunk.js.map": "/Regal-Riches-Calculator/static/js/453.73a98e51.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.749f888a.css",
-    "static/js/main.00f723d5.js"
+    "static/js/main.664760be.js"
   ]
 }
